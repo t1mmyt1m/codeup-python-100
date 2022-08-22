@@ -1,0 +1,5 @@
+i = input()
+h = input()
+i = float(i)
+h = float(h)
+print(i + h)
